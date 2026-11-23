@@ -1,0 +1,8 @@
+{
+  "name": "Portofolio E-Modul TEP UM",
+  "description": "Portal portofolio proyek e-modul mahasiswa Teknologi Pendidikan Universitas Negeri Malang pada mata kuliah Bahan Pembelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
